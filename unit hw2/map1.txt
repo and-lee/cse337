@@ -1,0 +1,34 @@
+ROOM 19
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS -1 14 29 -1
+PUZZLE screwdriver
+---
+ROOM 14
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS -1 17 19 -1
+---
+ROOM 29
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS -1 -1 19 17
+ITEMS screwdriver pencil battery
+PUZZLE hat
+---
+ROOM 17
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 14 -1 19 -1
+ITEMS coin wrench

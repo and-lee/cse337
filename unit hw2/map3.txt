@@ -1,0 +1,34 @@
+ROOM 2
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 17 30 -1 -1
+ITEMS pencil coin
+---
+ROOM 25
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS -1 -1 2 17
+---
+ROOM 30
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 25 -1 2 -1
+PUZZLE pencil
+---
+ROOM 17
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS -1 -1 2 30
+ITEMS screwdriver

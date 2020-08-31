@@ -1,0 +1,43 @@
+ROOM 27
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 12 23 -1 19
+ITEMS coin
+---
+ROOM 7
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 27 19 -1 3
+---
+ROOM 3
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 12 27 7 -1
+---
+ROOM 12
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 7 -1 -1 19
+ITEMS hammer book pencil wrench hat
+PUZZLE book
+---
+ROOM 19
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS -1 29 3 27
+PUZZLE coin

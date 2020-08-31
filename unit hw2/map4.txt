@@ -1,0 +1,82 @@
+ROOM 6
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 19 36 -1 32
+---
+ROOM 30
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 27 32 20 -1
+ITEMS hammer book pair of eyeglasses coin
+PUZZLE pencil
+---
+ROOM 34
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 39 6 8 40
+---
+ROOM 37
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 6 37 16 25
+---
+ROOM 29
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 19 37 6 22
+ITEMS screwdriver
+---
+ROOM 27
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS -1 16 36 23
+PUZZLE hammer
+---
+ROOM 19
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 32 25 38 26
+---
+ROOM 22
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 5 18 36 6
+ITEMS pencil
+PUZZLE wrench
+---
+ROOM 40
+TITLE (room title goes here)
+DESC (room description text goes here)
+EXITS 36 -1 4 9
+ITEMS hat
+PUZZLE coin
+---
+ROOM 32
+TITLE (room title goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+DESC (room description text goes here)
+EXITS 23 25 10 33
+PUZZLE battery
